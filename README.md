@@ -4,8 +4,6 @@
 # First Batch
 
     Original Image
-        Uses inpainting
-
         Positive Prompt: A woman in futuristic armor,a crowd in the foreground,walking in a cyberpunk city,at night,in the rain
 
         Negative Prompt: low quality,blurry, duplicate people,helmet
@@ -28,4 +26,33 @@
 
         Settings: Steps: 35, Sampler: Euler a, CFG scale: 10, Seed: 2245521335, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.8, Conditional mask weight: 1.0, Mask blur: 4
 
-![Pollock]()
+![Pollock](https://github.com/JGonzalez249/Generative-Images-using-Diffusion/blob/master/img/futureWomanPollock.png)
+
+# Second Batch
+
+    Original Image
+        Positive Prompt: Space, planets in the background, shooting stars, space ships around planet, dark
+
+        Negative Prompt: blurry, low quality, bright
+
+![Original]()
+
+    90's Anime
+
+        Settings: Steps: 25, Sampler: Euler a, CFG scale: 1.5, Seed: 2846331361, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.75, Conditional mask weight: 1.0, Mask blur: 4
+
+        Removed ring
+
+![90's Anime]()
+
+    Post-Impressionism/Vincent von Gogh
+
+        Settings: Steps: 25, Sampler: Euler a, CFG scale: 15, Seed: 4238743229, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.75, Conditional mask weight: 1.0, Mask blur: 4
+
+![Post-Impressionism]()
+
+    Pop Art/Andy Warhol
+
+        Settings: Steps: 40, Sampler: Euler a, CFG scale: 25, Seed: 8622219, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.5, Conditional mask weight: 1.0, Mask blur: 4
+
+![Pop Art]()
