@@ -3,6 +3,8 @@
 
 Used this notebook: https://colab.research.google.com/github/sagiodev/stablediffusion_webui/blob/master/StableDiffusionUI_ngrok_sagiodev.ipynb?authuser=1#scrollTo=gJBtadxGOK7b
 
+Using this notebook, I used the v1.5 inpainting model to generate images via promtps, then using those generated images, I just added the styles I wanted (including Artist), changed various settings and used different sampling models to generate a certain style for the same image. You can see the original image that was generated and the results of using different styles below. 
+
 # First Batch
 
     Original Image
