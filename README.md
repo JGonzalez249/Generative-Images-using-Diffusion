@@ -81,20 +81,20 @@ Used this notebook: https://colab.research.google.com/github/sagiodev/stablediff
 
         Settings: Steps: 50, Sampler: DPM++ SDE, CFG scale: 10.5, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.65, Conditional mask weight: 1.0, Mask blur: 4
 
-![Street Art]()
+![Street Art](https://github.com/JGonzalez249/Generative-Images-using-Diffusion/blob/master/img/raceCarStreet.png)
 
 
     Neo-Expressionsim/Jean-Michel Basquiat
 
         Settings: Steps: 30, Sampler: Euler a, CFG scale: 14, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.6, Conditional mask weight: 1.0, Mask blur: 4
 
-![Neo-Expressionsim]()
+![Neo-Expressionsim](https://github.com/JGonzalez249/Generative-Images-using-Diffusion/blob/master/img/raceCarNeoEx.png)
 
     Art Nouveau
 
         Settings: Steps: 25, Sampler: Euler a, CFG scale: 19, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.5, Conditional mask weight: 1.0, Mask blur: 4
 
-![Art Nouveau]()
+![Art Nouveau](https://github.com/JGonzalez249/Generative-Images-using-Diffusion/blob/master/img/raceCarNou.png)
 
 
 
