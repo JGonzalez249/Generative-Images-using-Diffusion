@@ -1,7 +1,7 @@
 # Generative-Images-using-Diffusion
 3 sets of 3 images using generative AI with different styles of art
 
-Used: https://colab.research.google.com/github/sagiodev/stablediffusion_webui/blob/master/StableDiffusionUI_ngrok_sagiodev.ipynb?authuser=1#scrollTo=gJBtadxGOK7b
+Used this notebook: https://colab.research.google.com/github/sagiodev/stablediffusion_webui/blob/master/StableDiffusionUI_ngrok_sagiodev.ipynb?authuser=1#scrollTo=gJBtadxGOK7b
 
 # First Batch
 
@@ -73,6 +73,31 @@ Used: https://colab.research.google.com/github/sagiodev/stablediffusion_webui/bl
         Positive Prompt: race cars, in the street, in the city, people on the sidelines, at night, zoomed out, speed lines, smoke, realistic
 
         Negative Prompt: blurry, low quality, duplicate cars, people on the street, flags, barriers, black and white, illustrated
+
+![Original](https://github.com/JGonzalez249/Generative-Images-using-Diffusion/blob/master/img/raceCarOriginal.png)
+
+
+    Street Art
+
+        Settings: Steps: 50, Sampler: DPM++ SDE, CFG scale: 10.5, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.65, Conditional mask weight: 1.0, Mask blur: 4
+
+![Street Art]()
+
+
+    Neo-Expressionsim/Jean-Michel Basquiat
+
+        Settings: Steps: 30, Sampler: Euler a, CFG scale: 14, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.6, Conditional mask weight: 1.0, Mask blur: 4
+
+![Neo-Expressionsim]()
+
+    Art Nouveau
+
+        Settings: Steps: 25, Sampler: Euler a, CFG scale: 19, Seed: 1399911285, Size: 512x512, Model hash: c6bbc15e32, Model: sd-v1-5-inpainting, Denoising strength: 0.5, Conditional mask weight: 1.0, Mask blur: 4
+
+![Art Nouveau]()
+
+
+
 
 
 
